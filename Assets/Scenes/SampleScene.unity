@@ -1585,7 +1585,7 @@ MonoBehaviour:
   goalTransform: {fileID: 907941994}
   goalPivot: {fileID: 1650907218}
   glassPrefab: {fileID: 5374097733400919726, guid: 6b9287f95bd5f9d44b549b292b77216a, type: 3}
-  totalRow: 2
+  totalRow: 5
   glassOffset: 2.5
   bridgeLengthMultipier: 0.325
 --- !u!4 &1080162997
